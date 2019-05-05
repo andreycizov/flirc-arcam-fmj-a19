@@ -2,7 +2,7 @@ Flirc definitions for Arcam FMJ A19
 ===================================
 
 I've got a setup where Raspberry PI needs to control Arcam FMJ A19. As it doesn't have a digital input I am using
-(Flirc)[https://flirc.tv/] to replace the original remote.
+[Flirc](https://flirc.tv/) to replace the original remote.
 
 
 Usage
@@ -30,6 +30,6 @@ To do additional dumps
 Author
 ------
 
-Andrey Cizov (no copyright)
+Andrey Cizov ([acizov@gmail.com](mailto:acizov@gmail.com)) (no copyright)
 
 Dumps have been recorded from the remote control and do not belong to me.
